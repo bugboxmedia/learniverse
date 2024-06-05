@@ -19,7 +19,6 @@ import p8 from "../images/svg/AutoCAD.svg";
 import p10 from "../images/svg/DM.svg";
 import p11 from "../images/svg/Finance.svg";
 import p12 from "../images/svg/HR Management.svg";
-import p13 from "../images/svg/DS.svg";
 import contact1 from "../images/svg/location.svg";
 import contact2 from "../images/svg/call.svg";
 import contact3 from "../images/svg/email.svg";
@@ -284,7 +283,7 @@ export default function Home() {
             success."
           />
           <TrainingCard
-            src={p13}
+            src={p1}
             alt="DATA STRUCTURES AND ALGORITHMS"
             title="DATA STRUCTURES AND ALGORITHMS"
             content="Master the essentials of data structures and algorithms with
